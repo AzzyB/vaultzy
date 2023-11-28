@@ -1,6 +1,8 @@
 Vaultzy
 ==========
 
+![vaultzy_icon](https://github.com/AzzyB/Vaultzy/blob/main/favicon.png)
+
 ## What is Vaultzy?
 
 * Vaultzy is client-side file encryption web app forked from Hypervault.
