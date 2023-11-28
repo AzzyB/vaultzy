@@ -2,6 +2,7 @@ Vaultzy
 ==========
 
 ![vaultzy_icon](https://github.com/AzzyB/Vaultzy/blob/main/favicon.png)
+![vaultzy_screenshot](https://github.com/AzzyB/Vaultzy/blob/main/vaultzy%20screenshot.png)
 
 ## What is Vaultzy?
 
