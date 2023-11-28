@@ -22,9 +22,9 @@ Vaultzy
     - Vaultzy then initiates a download of the new `locked_vault.html`.
 
 * Secure
-    - Vaultzy uses the Triplesec library, which uses 3 strong encryption algorithms ([AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard), [Salsa20](https://en.wikipedia.org/wiki/Salsa20), and [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher))), so you can rest assured that your data is safe, even if a couple of the ciphers are compromised.
-    - Since Vaultzy runs in a browser (which is sandboxed), you never have to worry that it doing anything nefarious on your computer.
-    - Zero-knowledge: Vaultzy encryption is all client-side, so even if Vaultzy's servers are compromised, your data is still safe.
+    - Vaultzy uses the Triplesec library, which uses 3 strong encryption algorithms ([AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard), [Salsa20](https://en.wikipedia.org/wiki/Salsa20), and [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher))).
+    - Since Vaultzy runs sandboxed in a browser, you never have to worry that it doing anything on your computer outside of what it's designed to do.
+    - Zero-knowledge: Vaultzy encryption is all client-side only.
 * Easy
     - No installations necessary, just run in the browser.
 * Offline
