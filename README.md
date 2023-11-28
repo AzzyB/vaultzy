@@ -1,7 +1,6 @@
 Vaultzy
 ==========
 
-![vaultzy_icon](https://github.com/AzzyB/Vaultzy/blob/main/favicon.png)
 ![vaultzy_screenshot](https://github.com/AzzyB/Vaultzy/blob/main/vaultzy%20screenshot.png)
 
 ## What is Vaultzy?
@@ -33,3 +32,4 @@ Vaultzy
 * Always usable
     - Since Vaultzy packages itself with your encrypted data (in the form of a `locked_vault.html` file, you can always decrypt your data, even if Vaultzy goes away.
 
+![vaultzy_icon](https://github.com/AzzyB/Vaultzy/blob/main/favicon.png)
